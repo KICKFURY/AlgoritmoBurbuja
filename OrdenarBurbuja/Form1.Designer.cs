@@ -1,6 +1,6 @@
 ﻿namespace OrdenarBurbuja
 {
-    partial class Form1
+    partial class FrmPrincipal
     {
         /// <summary>
         /// Variable del diseñador necesaria.

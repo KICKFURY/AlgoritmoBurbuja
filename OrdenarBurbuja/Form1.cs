@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace OrdenarBurbuja
 {
-    public partial class Form1 : Form
+    public partial class FrmPrincipal : Form
     {
         Random random = new Random();
         int[] numeros;
 
-        public Form1()
+        public FrmPrincipal()
         {
             InitializeComponent();
             numeros = new int[1000];
